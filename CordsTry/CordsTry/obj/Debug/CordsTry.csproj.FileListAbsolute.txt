@@ -1,0 +1,8 @@
+C:\Users\Professional\source\repos\CordsTry\CordsTry\bin\Debug\CordsTry.exe.config
+C:\Users\Professional\source\repos\CordsTry\CordsTry\bin\Debug\CordsTry.exe
+C:\Users\Professional\source\repos\CordsTry\CordsTry\bin\Debug\CordsTry.pdb
+C:\Users\Professional\source\repos\CordsTry\CordsTry\obj\Debug\CordsTry.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\CordsTry\CordsTry\obj\Debug\CordsTry.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\source\repos\CordsTry\CordsTry\obj\Debug\CordsTry.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\CordsTry\CordsTry\obj\Debug\CordsTry.exe
+C:\Users\Professional\source\repos\CordsTry\CordsTry\obj\Debug\CordsTry.pdb
